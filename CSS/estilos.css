@@ -1,0 +1,76 @@
+* {
+	 padding:;
+	 margin:5px;	
+	 font-family:Helvetica;
+     line-height:25px;	 
+}
+
+h1 {
+	 margin:0 ;
+     padding:20px;
+	 font-size:45px;
+	 text-align:left;
+}
+
+img {
+	 margin:0 ;
+     padding:25px;
+	
+}
+
+.Pie_de_pagina {
+	 position:relative ;
+	 color:white;
+	 background:black;
+	 top:100px;
+	 margin:10 -10;
+	 padding:8px 400px ;
+	 font-size:20px;
+	 text-align:center;
+	 width:;
+	 display:line;
+}
+
+div {
+	 font-weight:700;
+     font-size:20px;			 
+}
+
+
+/* modificación enlaces */
+
+a { 
+     text-decoration:none;
+	 font-size:20px;
+     position:relative;
+	 top:;
+	 bottom:40px;
+	 right:;
+	 left:20px;
+}
+
+a:hover {
+     font-size:22px;
+     text-decoration:underline;	 
+}
+
+a:active {
+	 color:red;
+}
+
+	
+h3 {
+	 margin:0;
+     padding:20;
+	 font-size:25px;
+}
+
+
+
+
+ 
+
+
+	
+
+	

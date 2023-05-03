@@ -1,0 +1,112 @@
+* {
+	 padding:;
+	 margin:5px;	
+	 font-family:Helvetica;	
+  	 line-height:25px;	
+}
+
+h1  {
+	 margin:0 ;
+     padding:20px;
+	 font-size:45px;
+	 text-align:left;
+}
+
+
+.Pie_de_pagina {
+	 position:relative ;
+	 color:white;
+	 background:black;
+	 top:490px;
+	 margin:10 -10;
+	 padding:8px 400px ;
+	 font-size:20px;
+	 text-align:center;
+	 width:;
+	 display:line;
+}
+
+
+/* modificación enlaces */
+
+a {
+	 text-decoration:none;
+	 font-size:20;
+	 color:black;
+	 background:#6C0D9C;
+	 margin:40px 30px ;
+	 padding:30px;
+	 box-shadow:5px 5px 5px 5px black;
+	 display:inline-block;
+	 
+	 
+} 
+
+a:link {
+	 text-decoration:none;
+	 color:black;
+	 
+	 
+}	
+
+a:hover { 
+     padding:;
+	 box-shadow:3px 3px 3px 3px black; 
+	 
+}
+
+a:active {
+	 color:red;
+	  box-shadow:1px 1px 1px 1px black
+     
+}
+
+a:visited {
+	 display:inline-block;
+	
+}
+
+
+
+
+
+
+
+
+
+
+/* Útil: 
+
+.uno { 
+     position:relative;
+	 top:80;
+	 bottom:;
+	 left:50;
+	 right:;
+	 margin:;
+	 padding:40px;
+	 width:370px;
+	 background:#5724B7;
+	 text-shadow:5px 5px 5px black;
+	 font-size:20px;
+	 display:inline-block;
+	 border:5px solid black;
+}
+
+.dos {	
+     position:relative;
+	 top:80;
+	 bottom:;
+	 left:200px;
+	 right:;
+	 margin:;
+	 padding:40px;
+	 width:370px;
+	 background:#5724B7; 
+	 text-shadow:5px 5px 5px black;
+	 font-size:20px;
+	 display:inline-block;
+	 border:5px solid black;
+}
+
+*/
